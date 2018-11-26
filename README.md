@@ -1,7 +1,7 @@
 # Web-Lab-Programs
 #### Here are the correct executed 7th Sem WTA Lab Programs
 
-## Note : The lab manual provided is taken only for reference and not perfect. The programs above have been tried and executed and is working properly. So, Please refer the programs instead of lab manual.
+### Note : The lab manual provided is taken only for reference and not perfect. The programs above have been tried and executed and is working properly. So, Please refer the programs instead of lab manual.
 
 For PHP programs, 
     i. Open Xampp app, and Start and Run "Apache" and "mySQL".
