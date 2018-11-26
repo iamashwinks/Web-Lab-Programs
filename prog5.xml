@@ -1,0 +1,33 @@
+<?xml-stylesheet type="text/css"  href="prog5.css" ?>
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<h1> STUDENTS DESCRIPTION </h1>
+	</head>
+	<students>
+		<student>
+			<USN>USN	:  1DT14CS001</USN>
+			<name>NAME	:  AAKASH</name>
+			<college>COLLEGE :  DSATM</college>
+			<branch>BRANCH	:	Computer Science and Engineering</branch>
+			<year>YEAR	:	2014</year>
+			<e-mail>E-Mail	:	aakash@gmail.com</e-mail>
+		</student>
+		<student>
+			<USN>USN	:  1DT14CS012</USN>
+			<name>NAME	:  MADHU</name>
+			<college>COLLEGE :  DSATM</college>
+			<branch>BRANCH	:  Computer Science and Engineering</branch>
+			<year>YEAR	:	2014</year>
+			<e-mail>E-Mail	:	madhu@gmail.com</e-mail>
+		</student>
+		<student>
+			<USN>USN	:  1DT15EC401</USN>
+			<name>NAME	:  RAM</name>
+			<college>COLLEGE :	DSATM</college>
+			<branch>BRANCH	: Electronics and Communication Engineering</branch>
+			<year>YEAR	:	2015</year>
+			<e-mail>E-Mail	:	ram@gmail.com</e-mail>
+		</student>
+	</students>
+</html>
